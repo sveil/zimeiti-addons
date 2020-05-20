@@ -1,0 +1,13 @@
+.DS_Store
+.vscode
+/.git
+/.svn
+/.idea
+/runtime
+/thinkphp
+/vendor
+/safefile
+/nbproject
+/config/cert
+/composer.lock
+/composer.phar
